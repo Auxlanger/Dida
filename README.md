@@ -46,7 +46,7 @@ Contact details will be added at a later date. For now, see [Dida](https://githu
 
 ## Introduction
 
-Dida is a tiny experimental [auxlang](https://en.wikipedia.org/wiki/International_auxiliary_language) with strict grammar, simple phonology and easy orthography. Its grammar is largely *a priori*. It contains *a posteriori* vocabulary imported from English according to [rules of mutilation](#rules-of-mutilation) in a mnemonic manner. Thus Dida is intended to be easy to learn rather than being comprehensible at first sight. The name **Dida** comes from **di** (this) plus **da** (that), since such pronouns are extensively used.
+Dida is a tiny experimental [auxlang](https://en.wikipedia.org/wiki/International_auxiliary_language) with strict grammar, simple phonology and easy orthography. Its grammar is largely *a priori*. It contains *a posteriori* vocabulary imported from English according to [rules of mutilation](#rules-of-mutilation) in a mnemonic manner. Thus Dida is intended to be easy to learn rather than being comprehensible at first sight. The name **Dida** comes from **di** (this) plus **da** (that), since such pronouns are extensively used in the language.
   
 ---
 
@@ -101,6 +101,6 @@ When importing words from English:
 
 ---
 
-`20171222 / 20171222:1732`
+`20171222 / 20171222:2029`
 
 ---
